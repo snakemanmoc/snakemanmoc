@@ -1,4 +1,14 @@
-dae galerinha do zap
-![](https://images.app.goo.gl/zJFQGaizfYYRXbhi6)
-🇧🇷
-![](https://images.app.goo.gl/wU67YDT2P3Eo738j9)
+dae galerinha do zap 🇧🇷
+
+![]![image](https://github.com/user-attachments/assets/a796fdc7-a8e4-4afc-b49f-4405917d2eb1)
+
+-estudo no colegio estadual padre claudio morelli
+
+-Estou estudando na Alura
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+![](![image](https://github.com/user-attachments/assets/07c98298-a510-4196-88fc-90cb16455d03)
